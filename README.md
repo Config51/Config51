@@ -1,8 +1,12 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Yeshi!<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Mechatronics Engineering
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
+[![Linkedin: Yeshi](https://img.shields.io/badge/-Yeshi_-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/s-yeshitharan-830301150/)](https://www.linkedin.com/in/s-yeshitharan-830301150/)
+![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
+![Yeshi_ Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
 <div align="center" width="50">
 
