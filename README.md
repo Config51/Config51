@@ -10,11 +10,11 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="550"/><br> 
   
-<p><strong>1nd year Mechatronics student. During day, Assisting
-<br>my father at his shop & Coder at night.
+<p><strong>1nd year Mechatronics student.
+<br>Student in the morning & Coder at night.
 <br><br> Vibing to : 🎧  </strong></p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)]([https://open.spotify.com/user/somnathpaul](https://open.spotify.com/user/fsajef40f48an7lh2wpwgf7vf)) <br>
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)]([[https://open.spotify.com/user/somnathpaul](https://open.spotify.com/user/fsajef40f48an7lh2wpwgf7vf)](https://open.spotify.com/user/fsajef40f48an7lh2wpwgf7vf)) <br>
 
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
