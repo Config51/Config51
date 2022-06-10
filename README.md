@@ -6,7 +6,6 @@
 
 [![Linkedin: Yeshi](https://img.shields.io/badge/-Yeshi_-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/s-yeshitharan-830301150/)](https://www.linkedin.com/in/s-yeshitharan-830301150/)
 ![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Yeshi_ Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
 <div align="center" width="50">
 
