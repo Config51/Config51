@@ -1,11 +1,4 @@
 <h2>I'm Yeshi!</h2>
-<p><em>Mechatronics Engineering
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
-
-[![Linkedin: Yeshi](https://img.shields.io/badge/-Yeshi_-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/s-yeshitharan-830301150/)](https://www.linkedin.com/in/s-yeshitharan-830301150/)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-
 <div align="center" width="50">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="550"/><br> 
