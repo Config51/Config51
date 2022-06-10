@@ -3,7 +3,7 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="550"/><br> 
   
-<p><strong>1nd year Mechatronics student.
+<p><strong>1st year Mechatronics student.
 <br>Student in the morning & Coder at night.
 <br><br> Vibing to : 🎧  </strong></p>
 
