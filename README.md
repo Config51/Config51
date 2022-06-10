@@ -14,7 +14,7 @@
 <br>my father at his shop & Coder at night.
 <br><br> Vibing to : 🎧  </strong></p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)]([https://open.spotify.com/user/somnathpaul](https://open.spotify.com/user/fsajef40f48an7lh2wpwgf7vf)) <br>
 
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
