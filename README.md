@@ -3,8 +3,8 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="550"/><br> 
   
-<p><strong>1st year Mechatronics student.
-<br>Student in the morning & Coder at night.
+<p><strong>Mechatronics Student.
+<br>Student in the Morning & Coder at night.
 <br><br> Vibing to : 🎧  </strong></p>
 
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)]([[https://open.spotify.com/user/somnathpaul](https://open.spotify.com/user/fsajef40f48an7lh2wpwgf7vf)](https://open.spotify.com/user/fsajef40f48an7lh2wpwgf7vf)) <br>
