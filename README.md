@@ -43,7 +43,7 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
 ![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
 
-```javascript
+```JavaScript
 const Yeshi = {
     pronouns: "He" | "Him",
     code: ["Linux", "Python", "Java", "PLC"],
@@ -55,9 +55,9 @@ const Yeshi = {
         mobileApp: {
             native: ["Android Development"]
         },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        DevOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        Databases: ["mongo", "MySql", "sqlite"],
+        Misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "Building Robots to ease opertations",
