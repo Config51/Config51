@@ -1,4 +1,4 @@
-<h2><img src=/> I'm Yeshi!< width="50"></h2>
+<h2>I'm Yeshi!</h2>
 <p><em>Mechatronics Engineering
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
