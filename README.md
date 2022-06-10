@@ -43,26 +43,19 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
 ![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
 
-```JavaScript
-const Yeshi = {
-    pronouns: "He" | "Him",
-    code: ["Linux", "Python", "Java", "PLC"],
-    askMeAbout: ["IoT", "Electronics", "Robotics", "Machine Learning"],
-    technologies: {
-        backEnd: {
-            js: ["Code Blocks", "Fastify", "Express"],
-        },
-        mobileApp: {
-            native: ["Android Development"]
-        },
-        DevOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        Databases: ["mongo", "MySql", "sqlite"],
-        Misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
-    },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Building Robots to ease opertations",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
+```Dart
+// tools_I_use organized
+class About extends Me { 
+  const myTools = {  
+    "ProgramingLanguages" : { "Java", "Dart", "C++", "C", "Python", "Javascript" },
+    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
+    "Database" : { "MongoDB", "MySQL" },
+    "Editors" : { "Vscode", "Sublime", "CodeBlock" },
+    "Platforms" : { "Windows", "GNU/Linux" },
+    "OtherTools" : { "Cheat Engine", "E3", "Photoshop", "Lightroom" }
+  };
+}
+```
 ```
 
 -  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Flutter & WebDev**. <img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" /><br>
