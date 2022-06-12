@@ -6,7 +6,6 @@
   
 <p><strong>Mechatronics Student.
 <br>Student in the Morning & Coder at night.
-<br><br> Vibing to : 🎧  </strong></p>
 
 <!-- Nothing weird to see here -->
 <p align="center">
