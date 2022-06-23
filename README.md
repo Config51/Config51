@@ -2,7 +2,7 @@
 
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="550"/><br> 
+<img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" width="550"/><br> 
   
 <p><strong>Mechatronics Student.
 <br>Student in the Morning & Coder at night.
