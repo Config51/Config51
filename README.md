@@ -8,11 +8,8 @@
 <hr>
 <br>
 
-  
-<!-- Nothing weird to see here -->
 <p align="center">
-    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
-    <img src="https://readme.andyruwruw.com/api/now-playing">
+  ![Preview](https://itstommi.vercel.app/api?theme=dark)
   </a>
 </p>
 
