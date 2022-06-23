@@ -3,7 +3,6 @@
 </p>
 <h1> Hello Fellow < Coders/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40> </h1>
 <p align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?font=Acme&color=38C2FF&background=FF141400&vCenter=true&width=300&height=80&lines=I'm+!Yeshi;%22Welcome+To+My+Github%22;Mechatronics+Student;Student+in+the+Morning;Coder+at+Night)](https://git.io/typing-svg">
 </p>
 <p align='center'>
 <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
