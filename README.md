@@ -16,9 +16,6 @@
 </p>
 <br>
   
-<p><strong>Mechatronics Student.
-<br>Student in the Morning & Coder at night.
-
 <!-- Nothing weird to see here -->
 <p align="center">
   <a href="https://readme.andyruwruw.com/api/now-playing?open">
