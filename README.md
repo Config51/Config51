@@ -3,7 +3,6 @@
 </p>
 <h1> Hello Fellow < Coders/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40> </h1>
 <p align='center'>
-</p>
 <p align='center'>
 <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <hr>
