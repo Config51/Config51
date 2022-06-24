@@ -8,7 +8,7 @@
 <hr>
 
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=fsajef40f48an7lh2wpwgf7vf&width=600)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=fsajef40f48an7lh2wpwgf7vf&unique={true|1|on|yes})
 
 
 
