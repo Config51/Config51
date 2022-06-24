@@ -8,10 +8,20 @@
 <hr>
 
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=fsajef40f48an7lh2wpwgf7vf&unique={true|1|on|yes})
-
-
-
+### Operating Systems 🐧 :
+<br>
+<p align='center'>
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<br>
+<p align='center'>
+<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">&nbsp;&nbsp;
+</p>
 
 <hr></hr>
 
@@ -45,7 +55,6 @@ class About extends Me {
     "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
     "Database" : { "MongoDB", "MySQL" },
     "Editors" : { "Vscode", "Sublime", "CodeBlock" },
-    "Platforms" : { "Windows", "GNU/Linux" },
     "OtherTools" : { "Cheat Engine", "E3", "Photoshop", "Lightroom" }
   };
 }
