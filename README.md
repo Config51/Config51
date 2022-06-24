@@ -6,15 +6,12 @@
 <p align='center'>
 <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <hr>
-<br>
-
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=fsajef40f48an7lh2wpwgf7vf)
-
-  </a>
-</p>
 
 
-</div>
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=fsajef40f48an7lh2wpwgf7vf&width=600)
+
+
+
 
 <hr></hr>
 
